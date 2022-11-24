@@ -1,0 +1,10 @@
+<resources>
+    <string name="app_name">Decoder</string>
+    <string name="title">QR DECODER</string>
+    <string name="developer">By Krypton612</string>
+    <string name="settings">Settings</string>
+    <string name="about">About</string>
+    <string name="escannear_qr">Escanear QR</string>
+    <string name="galeria">Galeria</string>
+    <string name="guardados">Guardados</string>
+</resources>
