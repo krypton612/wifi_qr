@@ -135,7 +135,7 @@ you need to use the software and how to install them.
 <!-- USAGE EXAMPLES -->
 ## Usage
 
-Use this space to show useful examples of how a project can be used. Additional screenshots, code examples and demos work well in this space. You may also link to more resources.
+The objective of this application is to decode and store the information that qr codes have, usually the ability to share the key through a qr code is integrated into android 9 and above, but not to see the key itself, the purpose of the app is to store this information in a structured and persistent way
 _For more examples, please refer to the [Documentation](https://example.com)_
 
 <div align="center">
